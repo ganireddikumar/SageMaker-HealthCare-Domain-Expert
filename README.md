@@ -1,12 +1,12 @@
-#SageMaker-Healthcare-Domain-Expert
+# SageMaker-Healthcare-Domain-Expert
 
-##Context of the project
+## Context of the project
 This repository houses a proof-of-concept (POC) project titled "Enhancing Healthcare Communication with AI", which explores the potential of fine-tuning large language models using SageMaker for the healthcare domain. The project aims to equip students with advanced machine learning (ML) and large language model (LLM) skills by developing a healthcare domain expert model. By leveraging AWS tools, students train a language model capable of generating informative and contextually relevant text responses specific to healthcare. The project emphasizes rigorous evaluation, comparing the fine-tuned model against the original to validate its effectiveness, serving as a valuable resource for building high-quality healthcare-focused ML solutions.
 
-##About the project
+## About the project
 This project focuses on developing a domain expert model tailored for the healthcare field. It employs advanced Natural Language Processing (NLP) techniques to train and deploy a large language model on AWS SageMaker. The resulting model should be capable of generating informative and contextually relevant text responses specific to healthcare topics.
 
-##Dataset Used
+## Dataset Used
 The dataset chosen for this project revolves around a specific area within healthcare. For example, you could focus on:
 
 Clinical trials: Publicly available clinical trial data can provide valuable information on diseases, treatment protocols, and patient outcomes.
@@ -46,8 +46,8 @@ IAM (Identity and Access Management) for secure access control.
 EC2 (Elastic Compute Cloud) for requesting GPU instances for model training.
 S3 (Simple Storage Service) for storing datasets and model artifacts.
 
-##Comparative Analysis
+## Comparative Analysis
 The project includes a comparative analysis between the fine-tuned and deployed models to assess performance, validating the effectiveness of fine-tuning on healthcare-specific data.
 
-##Documentation and Submission
+## Documentation and Submission
 Prepare a comprehensive report documenting the process, challenges encountered, and solutions implemented for project submission.
